@@ -237,8 +237,8 @@ If you use this work in your research, please cite:
 
 ```bibtex
 @article{evanv3_alzheimer,
-  title={Evan_V3: A Hybrid Multi-Paradigm Deep Learning Framework for Alzheimer’s Disease Classification Using MRI},
-  author={Md Mahmudul Hoque},
+  title={Evan_V3: A Multi-Paradigm Hybrid Deep Learning Framework for Alzheimer's Disease from Brain MRI — with Rigorous Cross-Validation and Statistical Benchmarking},
+  author={Md Mahmudul Hoque, Mahmudul Hasan, Rakib Al Akand},
   journal={Under Review},
   year={2026}
 }
@@ -276,7 +276,7 @@ This project is intended for research and academic purposes.
 ## Author
 
 **Md Mahmudul Hoque**  
-Artificial Intelligence Researcher  
+Data Science Researcher  
 Machine Learning | Computer Vision | Medical Imaging | Deep Learning
 
 ---
